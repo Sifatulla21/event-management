@@ -1,0 +1,52 @@
+/* best seller package style */
+.package-rounded{
+    width: 292px;
+    height: 480px;  
+    background-color: #3F87F5;
+    border-radius: 26px;
+    color: white;
+}
+.btn-package{
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 43px;
+    padding-left: 74px;
+    padding-right: 74px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+}
+.best-seller{
+    font-family: 'Luxurious Roman', cursive;
+}
+/* toast style */
+.fa-gift{
+    color:#007CFFA1;
+    height: 23px;
+    width: 23px;
+    
+}
+.toast-body{
+    font-size: 20px;
+    font-weight: 500;
+}
+/* question part style */
+.question img{
+    max-width: 100%;
+}
+/* story of our sucess style */
+.previous-project{
+    background-color: #fceae8;
+}
+.btn-click{
+        background-color: #ff458f;
+        border: none;
+        border-radius: 10px;
+        color: white;
+        font-weight: bolder;
+        padding: 9px 25px;
+}
+/* footer style */
+footer img{
+    width: 150px;
+    height: 40px;
+}
